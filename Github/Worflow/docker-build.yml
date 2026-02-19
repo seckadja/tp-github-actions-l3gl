@@ -32,3 +32,4 @@ jobs:
           tags: |
             adjagade/projet-php:latest
             adjagade/projet-php:${{ github.sha }}
+            
